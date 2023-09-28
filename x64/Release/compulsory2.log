@@ -1,0 +1,9 @@
+﻿  compulsory2.cpp
+  compulsory2.h
+x64\Release\compulsory2.obj : warning LNK4042: object specified more than once; extras ignored
+  Generating code
+  1 of 20 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  compulsory2.vcxproj -> C:\Users\marti\Desktop\Programmering\compulsory2\x64\Release\compulsory2.exe

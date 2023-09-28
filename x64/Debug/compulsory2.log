@@ -1,0 +1,3 @@
+﻿  compulsory2.cpp
+x64\Debug\compulsory2.obj : warning LNK4042: object specified more than once; extras ignored
+  compulsory2.vcxproj -> C:\Users\marti\Desktop\Programmering\compulsory2\x64\Debug\compulsory2.exe
